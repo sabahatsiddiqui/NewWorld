@@ -2,6 +2,10 @@ With the latter, you can use the manual viewer of your choice; see git-help[1] f
 abc
 It is a good idea to introduce yourself to Git with your name and public email 
 address before doing any operation. The easiest way to do so is:
+<<<<<<< .merge_file_a07932
 Last Build release
 sabahat siddiqui   Litmus Labs  softronic systems pvt ltd
+=======
+sabahat siddiqui   Litmus Labs  softronic systems pvt ltd
 new bug Fix
+>>>>>>> .merge_file_a10112
